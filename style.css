@@ -1,0 +1,13 @@
+/* Alterando fontes */
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+nav , .botao button {
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+/*Alterando color do header e body*/
+header,footer {
+    background-image: var(--bs-gradient);
+}
+
